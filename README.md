@@ -1,2 +1,2 @@
 # See
-https://github.com/CommunityToolkit/Maui/issues/2162
+https://github.com/CommunityToolkit/dotnet/issues/928
